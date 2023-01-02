@@ -28,7 +28,7 @@ For this project, I was interestested in using Adidas Sales Dataset to analyze a
 ## File Descriptions <a name="files"></a>
 
 There is the Analysis notebook available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the thought process for individual steps.
-Also, you can find the dataset in Data folder.
+Also, you can find the dataset in the Data folder.
 
 ## Results<a name="results"></a>
 
