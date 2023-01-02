@@ -10,8 +10,11 @@
 ## Installation <a name="installation"></a>
 
 Python
+
 Pandas
+
 Matplotlib
+
 Openpyxl 
 
 ## Project Motivation<a name="motivation"></a>
